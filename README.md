@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Daniel Xavier
 
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
 
 <div>
   <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=xavier-dan&show_icons=false&theme=tokyonight">
